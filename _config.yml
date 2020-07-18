@@ -1,0 +1,15 @@
+title: Xiaoran Wang # your name (or website title) here
+logo: "/images/photo.jpg?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Master Student in Urban Spatial Analytics, University of Pennsylvania
+  <br><br>
+  GIS Analyst, Part-time Photographer  
+  <br><br>
+  
+  <br><br>
+  <a href="https://www.linkedin.com/in/xiaoran-wang-72257914a/">LinkedIn Profile</a>
+  <br>
+  <a href="https://www.instagram.com/xariawang/">Instagram Photography Profile @xariawang</a> 
+  
+theme: jekyll-theme-minimal
+#google_analytics: UA-000000-0 # your Google Analytics tracking ID here
